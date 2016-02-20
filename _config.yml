@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9946237
+  brandStrength: 0.3738067
+  lightness: 0.3530466
+  rhythmicContrast: 0.2706093
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.4336918
+name: Greg Plum
