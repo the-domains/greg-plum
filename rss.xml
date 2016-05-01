@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Greg Plum]]></title>
         <description><![CDATA[Greg Plum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greg-plum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 13:50:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 00:48:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greg-plum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Morning commute into the office...]]></title>
+            <description><![CDATA[<h1>Morning commute into the office...</h1>]]></description>
+            <link>https://thegrid.ai/greg-plum/morning-commute-into-the-office/index.html</link>
+            <guid isPermaLink="false">f81950b8-9591-4976-95bc-0dc8c3ad707a</guid>
+            <pubDate>Sun, 01 May 2016 00:48:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Co-workers: Tucker & Jack]]></title>
             <description><![CDATA[<article><h1>Co-workers: Tucker & Jack</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96990bc2-e70e-42e5-ab52-c76957e52051.png"></article>]]></description>
-            <link>undefinedco-workers-tucker-and-jack/index.html</link>
+            <link>https://thegrid.ai/greg-plum/co-workers-tucker-and-jack/index.html</link>
             <guid isPermaLink="false">dc0f6fe9-e5e1-4fe9-a9d6-486f535dfd5e</guid>
             <pubDate>Sat, 30 Apr 2016 13:50:22 GMT</pubDate>
         </item>
